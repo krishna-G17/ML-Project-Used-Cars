@@ -1,4 +1,14 @@
-pandas
 numpy 
+pandas
 seaborn
--e .
+matplotlib
+scikit-learn
+catboost
+xgboost
+dill
+flask
+selenium
+geopy
+geopandas
+uszipcode
+#-e .
